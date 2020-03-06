@@ -23,6 +23,6 @@ jobs:
 
 - 📣  News : Follow me on [Twitter](https://twitter.com/Hyprimort)
 - 🔗  See my [website](https://thomasbnt.fr) !
-- 📨  [Send me a email !](https://thomasbnt.fr/about)
+- 📨  [Send me a email !](https://thomasbnt.fr/contact)
 
 ![Love Open Source](https://badges.frapsoft.com/os/v3/open-source.png?v=103)
