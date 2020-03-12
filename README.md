@@ -1,8 +1,13 @@
-# 👋 GitHub Action : **Hello to news contributors**
+# 👋 **Hello to news contributors**
 
-> Hey to first PR and Issues for news contributors.
+#### Hey to first PR and Issues for news contributors. Customize your message, add links to Guidelines or other importants files.
 
-```
+
+_____
+
+Create the `.github/workflows/hello-tonews-contributions.yml` file with the following configuration
+
+```yml
 name: Auto message for PR's and Issues
 description: Automatically send hello message to the first PR and Issue for new contributor.
 branding:
