@@ -1,9 +1,11 @@
 # 👋 **Hello to news contributors**
 
-#### Hey to first PR and Issues for news contributors. Customize your message, add links to Guidelines or other importants files.
+##### Hey to first PR and Issues for news contributors. Customize your message, add links to Guidelines or other importants files.
 
 
-_____
+[![License](https://img.shields.io/github/license/thomasbnt/hello-to-news-contributions.svg?style=for-the-badge)](https://github.com/thomasbnt/hello-to-news-contributions/blob/master/LICENSE)
+[![Support me on BMC](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt)
+____
 
 Create the `.github/workflows/hello-tonews-contributions.yml` file with the following configuration
 
