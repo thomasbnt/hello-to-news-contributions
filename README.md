@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/github/license/thomasbnt/hello-to-news-contributions.svg?style=for-the-badge)](https://github.com/thomasbnt/hello-to-news-contributions/blob/master/LICENSE)
 ![Discord](https://img.shields.io/discord/367753345575944221?color=%237289DA&label=Join%20us&logo=Discord&logoColor=white&style=for-the-badge)
-[![Support me on BMC](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt)
+[![Support me on BMC](https://img.shields.io/badge/Support-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thomasbnt)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Hyprimort?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)
 ____
 
