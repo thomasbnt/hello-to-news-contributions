@@ -30,7 +30,7 @@ jobs:
           pr-message: "Hey, thank you for opening your Pull Request !"
 ```
 
-- 📣  News : Follow me on [Twitter](https://twitter.com/Hyprimort)
+- 📣  News : Follow me on [Twitter](https://twitter.com/Thomasbnt_)
 - 🔗  See my [website](https://thomasbnt.fr) !
 - 📨  [Send me a email !](https://thomasbnt.fr/contact)
 
