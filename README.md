@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_)
 ____
 
-Create the `.github/workflows/hello-tonews-contributions.yml` file with the following configuration
+Create the `.github/workflows/hello-to-news-contributions.yml` file with the following configuration
 
 ```yml
 name: Auto message for PR's and Issues
