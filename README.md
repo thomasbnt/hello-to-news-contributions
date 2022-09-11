@@ -12,10 +12,6 @@ Create the `.github/workflows/hello-to-news-contributions.yml` file with the fol
 
 ```yml
 name: Auto message for PR's and Issues
-description: Automatically send hello message to the first PR and Issue for new contributor.
-branding:
-  icon: message-square
-  color: yellow
 on: [pull_request, issues]
 jobs:
   build:
