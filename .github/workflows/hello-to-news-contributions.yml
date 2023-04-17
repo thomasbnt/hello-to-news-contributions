@@ -1,5 +1,7 @@
-name: Hello to news contributor
-on: [pull_request, issues]
+name: Auto message for PR's and Issues
+on:
+  pull_request:
+  issues:
 jobs:
   build:
     name: Hello new contributor
